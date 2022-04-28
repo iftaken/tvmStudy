@@ -1,0 +1,7 @@
+*.log
+*.zip
+*.onnx
+*.so
+*.tsv
+*.pyc
+hifigan_*
